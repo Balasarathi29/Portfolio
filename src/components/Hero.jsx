@@ -34,7 +34,7 @@ const Hero = () => {
                         <Link to="/projects" className="btn btn-primary">
                             View Work <ArrowRight size={18} />
                         </Link>
-                        <a href="/ATS Resume.pdf" className="btn btn-outline" download>
+                        <a href="/FS Resume.pdf" className="btn btn-outline" download>
                             Resume <Download size={18} />
                         </a>
                     </div>

@@ -37,13 +37,21 @@ const Projects = () => {
             repoLink: 'https://github.com/Balasarathi29/Quiz-Application'
         },
          {
-            title: 'E-Commerce Dashboard',
-            description: 'A comprehensive dashboard for managing products, orders, and customers with real-time analytics.',
-            image: 'https://placehold.co/600x400/171717/8b5cf6?text=E-Commerce',
-            tags: ['React', 'Chart.js', 'Node.js', 'MongoDB'],
-            demoLink: '#',
-            repoLink: '#'
+            title: 'Social Media Application',
+            description: 'A social media platform for connecting users and sharing content in real-time.',
+            image: 'https://placehold.co/600x400/171717/06b6d4?text=Social+Media+App',
+            tags: ['NestJS', 'JavaScript', 'MongoDB', 'Node.js'],
+            demoLink: 'https://social-media-app.vercel.app/',
+            repoLink: 'https://github.com/Balasarathi29/Social-Media-App'
         },
+        {
+            title: 'Small Scale E-Commerce',
+            description: 'A simple e-commerce solution for small businesses to sell their products online.',
+            image: 'https://placehold.co/600x400/171717/f59e0b?text=E-Commerce+App',
+            tags: ['React', 'Node.js', 'MongoDB', 'Express'],
+            demoLink: 'https://e-commerce-app.vercel.app/',
+            repoLink: 'https://github.com/Balasarathi29/E-Commerce-App'
+        }
     ];
 
     const container = {

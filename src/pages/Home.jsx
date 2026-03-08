@@ -17,20 +17,20 @@ const Home = () => {
 
     const projects = [
         {
-            title: 'Spotify Clone',
-            description: 'A Spotify-style music streaming platform with real-time audio playback, playlist management, responsive UI components, and smooth page transitions. Built to replicate a modern streaming experience.',
-            image: 'https://placehold.co/600x400/171717/06b6d4?text=Spotify+Clone',
-            tags: ['React', 'JavaScript', 'MongoDB', 'CSS3'],
-            demoLink: 'https://spotify-clone-phi-steel-51.vercel.app/',
-            repoLink: 'https://github.com/Balasarathi29/Spotify_Clone'
+            title: 'Social Media Application',
+            description: 'A social media platform for connecting users and sharing content in real-time.',
+            image: 'https://placehold.co/600x400/171717/06b6d4?text=Social+Media+App',
+            tags: ['NestJS', 'JavaScript', 'MongoDB', 'Node.js'],
+            demoLink: 'https://social-media-app.vercel.app/',
+            repoLink: 'https://github.com/Balasarathi29/Social-Media-App'
         },
         {
-            title: 'Weather Forecast App',
-            description: 'Beautiful weather application providing detailed forecasts using external APIs with location detection.',
-            image: 'https://placehold.co/600x400/171717/f59e0b?text=Weather+App',
-            tags: ['JavaScript', 'OpenWeatherMap API', 'CSS3'],
-            demoLink: 'https://weather-application-5vss.vercel.app/',
-            repoLink: 'https://github.com/Balasarathi29/Weather-Application'
+            title: 'Small Scale E-Commerce',
+            description: 'A simple e-commerce solution for small businesses to sell their products online.',
+            image: 'https://placehold.co/600x400/171717/f59e0b?text=E-Commerce+App',
+            tags: ['React', 'Node.js', 'MongoDB', 'Express'],
+            demoLink: 'https://e-commerce-app.vercel.app/',
+            repoLink: 'https://github.com/Balasarathi29/E-Commerce-App'
         }
     ];
 
